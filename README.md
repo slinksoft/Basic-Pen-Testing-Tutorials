@@ -15,4 +15,4 @@ My malware development videos will be remade and posted in the future.
 
 All my videos will be uploaded on YouTube slowly in the future.
 
-On a final note, I know it is extremely strange to upload a set of video tutorials on Github, but I wanted this "passion project" (if that's how you put it) to be a part of it. After all, people upload text tutorials, .PDF documents, and textbooks on Github (seriously :D )!
+On a final note, I know it is extremely strange to upload a set of video tutorials on Github, but I wanted this "passion project" (if that's how you put it) to be a part of it. After all, people upload text tutorials, .PDF documents, and textbooks on Github (seriously :D)!
